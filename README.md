@@ -35,12 +35,3 @@ Enter source node: A
 Enter destination node: H
 
 ---
-
-### ✅ What You Should Do Next:
-1. Replace:
-   - `your-username` with your GitHub username.
-   - `Your Name` with your full name or GitHub handle.
-   - Add screenshots if available.
-2. Save this as `README.md` in the root of your GitHub repository.
-
-Let me know if you’d like a version with emojis removed or formatted specifically for GitHub Pages or documentation.
